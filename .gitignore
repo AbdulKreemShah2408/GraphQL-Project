@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders
+client/build/
+server/dist/
+
+# Environment files
+.env
+*.env
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
